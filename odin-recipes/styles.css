@@ -1,0 +1,46 @@
+body {
+	font-family: "Times New Roman", serif;
+	background-color: lightgrey;
+	box-sizing: border-box;
+	margin: auto;
+	text-align: center
+}
+
+#head {
+	font-style: italic;
+	text-decoration: underline;
+	padding: 12px;
+}
+
+#recipe_links {
+	padding: 16px;
+	margin: 0 auto;
+	width: 500px;
+}
+
+ul {
+	background-color: lightblue;
+	padding: 8px 16px;
+}
+
+li {
+	background-color: darkblue;
+	width: 240px;
+	color: black;
+	padding: 8px 64px;
+	margin: 0 auto;
+}
+
+button {
+	font-family: "Times New Roman", serif;
+	background-color: lightblue;
+	font-size: 24px;
+	width: 240px;
+	padding: 16px 24px;
+}
+
+li :hover {
+	background-color: lightgrey;
+	color: blue;
+	font-style: italic;
+}
